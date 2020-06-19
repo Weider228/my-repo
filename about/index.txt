@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title> About us </title>
+  <link rel="stylesheet" href="D:\Git\style.css"/>
+  <meta charset="utf-8"/>
+</head>
+<body>
+  <h1> About us </h1>
+  <p> We're a little, beatiful website with just two employees: </p>
+  
+  <ul>
+    <li><a href="me.html">Me: The Developer</a></li>
+    <li><a href="kler.html">Kler: The Graphic Designer</a></li>
+  </ul>
+  <p><a href="D:\Git\about\index.html">Return to home page</a></p>
+</body>
+</html>

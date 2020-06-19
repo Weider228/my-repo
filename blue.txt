@@ -1,0 +1,12 @@
+<!DOCTYPE>
+<html lang="en">
+<head>
+  <title> Blue page </title>
+  <link rel="stylesheet" href="style.css"/>
+  <meta charset="utf-8"/>
+</head>
+<body>
+  <h1 style="color: #00F">Blue page </h1>
+  <p>Blue it the color of the sky</p>
+</body>
+</html>
