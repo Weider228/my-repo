@@ -26,6 +26,9 @@
     <li style="color: #00F">
       <a href="blue.html">Blue page</a>
     </li>
+    <li style="color: #C00">
+      <a href="red.html">Red page </a>
+    </li>
     <li>
       <a href="rainbow.html">Rainbow page</a>
     </li>
