@@ -1,1 +1,20 @@
-[Mary, please update your bio!]
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <title> About Mary </title>
+   <link rel="stylesheet" href="D:\git-repo\marys-repo\style.css" />
+   <meta charset="utf-8" />
+</head>
+<body>
+  <h1> About Mary </h1>
+  <p>I'm a graphic designer.</p>
+
+  <h2>Interestings</h2>
+  <ul>
+    <li> Oil painting </li>
+    <li> Web-design </li>
+  </ul>
+
+  <p><a href="index.html"> Back to home page </a></p>
+</body>
+</html>
