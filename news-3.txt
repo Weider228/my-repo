@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title> Silent Hill </title>
+  <link rel="stylesheet" href="style.css" />
+  <meta charset="utf-8" />
+</head>
+<body>
+  <h1 style="color: #D90"> Silent hill - the ghost town </h1>
+  <p><span style="color: #D90">Silent Hill's history</span> begin in 1666. Now nobody knows where
+  this strange place, but now about Silent Hill's story made a game
+  and a horror film! If you play or sees they you will not disappointed!</p>
+  
+  
+  <p><a href="index.html"> Back on home page </a></p>
+</body>
+</html>
