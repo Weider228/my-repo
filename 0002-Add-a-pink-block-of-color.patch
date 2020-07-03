@@ -1,0 +1,59 @@
+From 696c25d79e15c1df5a317412066bba73cc6cd9e3 Mon Sep 17 00:00:00 2001
+From: Mary <vova_zav2@mail.ru>
+Date: Fri, 3 Jul 2020 20:44:03 +0400
+Subject: [PATCH 2/2] Add a pink block of color
+
+---
+ pink.html | 8 +++++++-
+ pink.txt  | 8 +++++++-
+ 2 files changed, 14 insertions(+), 2 deletions(-)
+
+diff --git a/pink.html b/pink.html
+index de91995..f8716bd 100644
+--- a/pink.html
++++ b/pink.html
+@@ -4,11 +4,17 @@
+   <title> Pink page </title>
+   <link rel="stylesheet" href="style.css" />
+   <meta charset="utf-8" />
++<style>
++  div {
++    width: 300px;
++    height: 50px;
++  }
++</style>
+ </head>
+ <body>
+   <h1 style="color: #F0F"> Pink page </h1>
+   <p> Only <span style="color: #F0F"> real men</span> wear pink!</p>
+-
++  <div style="background-color: #F0F"></div>
+ 
+   <p><a href="index.html"> Back to home page </p></a>
+ </body>
+diff --git a/pink.txt b/pink.txt
+index de91995..f8716bd 100644
+--- a/pink.txt
++++ b/pink.txt
+@@ -4,11 +4,17 @@
+   <title> Pink page </title>
+   <link rel="stylesheet" href="style.css" />
+   <meta charset="utf-8" />
++<style>
++  div {
++    width: 300px;
++    height: 50px;
++  }
++</style>
+ </head>
+ <body>
+   <h1 style="color: #F0F"> Pink page </h1>
+   <p> Only <span style="color: #F0F"> real men</span> wear pink!</p>
+-
++  <div style="background-color: #F0F"></div>
+ 
+   <p><a href="index.html"> Back to home page </p></a>
+ </body>
+-- 
+2.25.1
+
